@@ -1,0 +1,6 @@
+name = "sumit"
+age = 23
+city = "mumbai"
+print(sumit)
+print(23)
+print(mumbai)
